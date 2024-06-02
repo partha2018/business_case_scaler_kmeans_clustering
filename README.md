@@ -23,5 +23,5 @@ There are 206923 data points and 8 features.
 
 ## Concept Used :
 
-. Manual Clustering
-. Unsupervised Clustering - K- means, Hierarchical Clustering
+ Manual Clustering
+ Unsupervised Clustering - K- means, Hierarchical Clustering
